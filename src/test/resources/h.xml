@@ -1,0 +1,44 @@
+<HWID>
+    <Generation name="REL3" hex="0x36">
+        <Variant name="FRMC" hex="0xFF">
+            <Revision name="X12" hex="0x02">
+                <E_Param value="0" />
+                <Official_support value="yes" />
+            </Revision>
+            <Revision name="X13" hex="0x01">
+                <E_Param value="0" />
+                <Official_support value="yes" />
+            </Revision>
+            <Revision name="X21" hex="0x03">
+                <E_Param value="0" />
+                <Official_support value="no" />
+            </Revision>
+            <Revision name="X31" hex="0x04">
+                <E_Param value="0" />
+                <Official_support value="no" />
+            </Revision>
+            <Revision name="101" hex="0x05">
+                <E_Param value="0" />
+                <Official_support value="no" />
+            </Revision>
+        </Variant>
+        <Variant name="FRHC" hex="0xEE">
+            <Revision name="X11" hex="0x00">
+                <E_Param value="0" />
+                <Official_support value="no" />
+            </Revision>
+            <Revision name="X21" hex="0x04">
+                <E_Param value="0" />
+                <Official_support value="no" />
+            </Revision>
+            <Revision name="X31" hex="0x02">
+                <E_Param value="0" />
+                <Official_support value="no" />
+            </Revision>
+            <Revision name="101" hex="0x03">
+                <E_Param value="0" />
+                <Official_support value="no" />
+            </Revision>
+        </Variant>
+    </Generation>
+</HWID>
